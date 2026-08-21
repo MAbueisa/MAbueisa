@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mohammed Abueisa👋
 
-<!--
-**MAbueisa/MAbueisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Taibah University
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst | Data + AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently developing my skills in data analytics, data cleaning, SQL, Excel, Power BI, Python, and AI-powered analytics.
+
+## Currently Learning
+
+- Google Data Analytics Professional Certificate
+- SQL
+- Excel
+- Power BI
+- Python
+- Data Analytics
+
+## Tools & Technologies
+
+Excel • SQL • Power BI • Python • Git & GitHub
+
+## Projects
+
+### 📊 Data Cleaning with Excel
+A practical data cleaning project where I worked with a dataset and applied data cleaning and organization techniques using Excel.
+
+## Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/mohammed-abueisa
