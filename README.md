@@ -27,7 +27,9 @@ Excel Data Cleaning & Analysis
 A practical Excel project covering data cleaning, data preparation, Excel functions, lookups, conditional analysis, PivotTables, PivotCharts, and basic data analysis.
 
 View Project
+
 [View the Excel Data Cleaning & Analysis Project](https://github.com/MAbueisa/excel-data-cleaning-and-analysis)
+
 More data analytics projects will be added as I continue my learning journey.
 
 Connect With Me
