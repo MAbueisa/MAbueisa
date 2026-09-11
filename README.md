@@ -1,29 +1,35 @@
-# Hi, I'm Mohammed Abueisa👋
+Hi, I’m Mohammed Abueisa
 
-🎓 Computer Science Student at Taibah University
+Computer Science Student at Taibah University
 
-📊 Aspiring Data Analyst | Data + AI
+Aspiring Data Analyst | Data + AI
 
-I am currently developing my skills in data analytics, data cleaning, SQL, Excel, Power BI, Python, and AI-powered analytics.
+I am currently building practical skills in data analytics, with a focus on Excel, SQL, data cleaning, data analysis, and data visualization.
 
-## Currently Learning
+Currently Learning
 
-- Google Data Analytics Professional Certificate
-- SQL
-- Excel
-- Power BI
-- Python
-- Data Analytics
+* Google Data Analytics Professional Certificate
+* Excel
+* SQL
+* Data Analysis
+* Data Visualization
 
-## Tools & Technologies
+Tools & Technologies
 
-Excel • SQL • Power BI • Python • Git & GitHub
+* Microsoft Excel
+* SQL
+* Git & GitHub
 
-## Projects
+Projects
 
-### 📊 Data Cleaning with Excel
-A practical data cleaning project where I worked with a dataset and applied data cleaning and organization techniques using Excel.
+Excel Data Cleaning & Analysis
 
-## Connect With Me
+A practical Excel project covering data cleaning, data preparation, Excel functions, lookups, conditional analysis, PivotTables, PivotCharts, and basic data analysis.
+
+View Project
+[View the Excel Data Cleaning & Analysis Project](https://github.com/MAbueisa/excel-data-cleaning-and-analysis)
+More data analytics projects will be added as I continue my learning journey.
+
+Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/mohammed-abueisa
